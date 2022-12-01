@@ -1,0 +1,122 @@
+ RecordLog.py[line:22] INFO 2021-11-18 09:08:47-> 已完成100条数据insert，最后一条记录的id为6195a79fd978edc8e4cadeab
+ RecordLog.py[line:22] INFO 2021-11-18 09:08:50-> 已完成200条数据insert，最后一条记录的id为6195a7a2d978edc8e4cadf73
+ RecordLog.py[line:22] INFO 2021-11-18 09:08:55-> 已完成300条数据insert，最后一条记录的id为6195a7a7d978edc8e4cae09f
+ RecordLog.py[line:22] INFO 2021-11-18 09:09:01-> 已完成400条数据insert，最后一条记录的id为6195a7add978edc8e4cae22f
+ RecordLog.py[line:22] INFO 2021-11-18 09:09:09-> 已完成500条数据insert，最后一条记录的id为6195a7b5d978edc8e4cae423
+ RecordLog.py[line:22] INFO 2021-11-18 09:09:19-> 已完成600条数据insert，最后一条记录的id为6195a7bfd978edc8e4cae67b
+ RecordLog.py[line:22] INFO 2021-11-18 09:09:30-> 已完成700条数据insert，最后一条记录的id为6195a7cad978edc8e4cae937
+ RecordLog.py[line:22] INFO 2021-11-18 09:10:41-> 已完成100条数据insert，最后一条记录的id为6195a811ee70aa562293a904
+ RecordLog.py[line:22] INFO 2021-11-18 09:10:43-> 已完成100条数据insert，最后一条记录的id为6195a813ee70aa562293a968
+ RecordLog.py[line:22] INFO 2021-11-18 09:10:44-> 已完成100条数据insert，最后一条记录的id为6195a814ee70aa562293a9cc
+ RecordLog.py[line:22] INFO 2021-11-18 09:10:46-> 已完成100条数据insert，最后一条记录的id为6195a816ee70aa562293aa30
+ RecordLog.py[line:22] INFO 2021-11-18 09:10:47-> 已完成100条数据insert，最后一条记录的id为6195a817ee70aa562293aa94
+ RecordLog.py[line:22] INFO 2021-11-18 09:10:49-> 已完成100条数据insert，最后一条记录的id为6195a819ee70aa562293aaf8
+ RecordLog.py[line:22] INFO 2021-11-18 09:10:51-> 已完成100条数据insert，最后一条记录的id为6195a81bee70aa562293ab5c
+ RecordLog.py[line:22] INFO 2021-11-18 09:10:52-> 已完成100条数据insert，最后一条记录的id为6195a81cee70aa562293abc0
+ RecordLog.py[line:22] INFO 2021-11-18 09:10:54-> 已完成100条数据insert，最后一条记录的id为6195a81eee70aa562293ac24
+ RecordLog.py[line:22] INFO 2021-11-18 09:10:55-> 已完成100条数据insert，最后一条记录的id为6195a81fee70aa562293ac88
+ RecordLog.py[line:22] INFO 2021-11-18 09:18:20-> 已完成0条数据insert，最后一条记录的id为6195a9dc8a132e064524dda7
+ RecordLog.py[line:22] INFO 2021-11-18 09:18:21-> 已完成100条数据insert，最后一条记录的id为6195a9dd8a132e064524de0b
+ RecordLog.py[line:22] INFO 2021-11-18 09:18:23-> 已完成200条数据insert，最后一条记录的id为6195a9df8a132e064524de6f
+ RecordLog.py[line:22] INFO 2021-11-18 09:18:24-> 已完成300条数据insert，最后一条记录的id为6195a9e08a132e064524ded3
+ RecordLog.py[line:22] INFO 2021-11-18 09:18:26-> 已完成400条数据insert，最后一条记录的id为6195a9e28a132e064524df37
+ RecordLog.py[line:22] INFO 2021-11-18 09:18:28-> 已完成500条数据insert，最后一条记录的id为6195a9e48a132e064524df9b
+ RecordLog.py[line:22] INFO 2021-11-18 09:18:29-> 已完成600条数据insert，最后一条记录的id为6195a9e58a132e064524dfff
+ RecordLog.py[line:22] INFO 2021-11-18 09:18:31-> 已完成700条数据insert，最后一条记录的id为6195a9e78a132e064524e063
+ RecordLog.py[line:22] INFO 2021-11-18 09:18:32-> 已完成800条数据insert，最后一条记录的id为6195a9e88a132e064524e0c7
+ RecordLog.py[line:22] INFO 2021-11-18 09:18:34-> 已完成900条数据insert，最后一条记录的id为6195a9ea8a132e064524e12b
+ RecordLog.py[line:22] INFO 2021-11-18 09:47:35-> 已完成0条数据insert，最后一条记录的id为6195b0b78cca68ab05f12cb3
+ RecordLog.py[line:22] INFO 2021-11-18 09:47:37-> 已完成100条数据insert，最后一条记录的id为6195b0b98cca68ab05f12d17
+ RecordLog.py[line:22] INFO 2021-11-18 09:47:38-> 已完成200条数据insert，最后一条记录的id为6195b0ba8cca68ab05f12d7b
+ RecordLog.py[line:22] INFO 2021-11-18 09:47:40-> 已完成300条数据insert，最后一条记录的id为6195b0bc8cca68ab05f12ddf
+ RecordLog.py[line:22] INFO 2021-11-18 09:47:42-> 已完成400条数据insert，最后一条记录的id为6195b0be8cca68ab05f12e43
+ RecordLog.py[line:22] INFO 2021-11-18 09:47:43-> 已完成500条数据insert，最后一条记录的id为6195b0bf8cca68ab05f12ea7
+ RecordLog.py[line:22] INFO 2021-11-18 09:47:45-> 已完成600条数据insert，最后一条记录的id为6195b0c18cca68ab05f12f0b
+ RecordLog.py[line:22] INFO 2021-11-18 09:47:47-> 已完成700条数据insert，最后一条记录的id为6195b0c38cca68ab05f12f6f
+ RecordLog.py[line:22] INFO 2021-11-18 09:47:49-> 已完成800条数据insert，最后一条记录的id为6195b0c58cca68ab05f12fd3
+ RecordLog.py[line:22] INFO 2021-11-18 09:47:51-> 已完成900条数据insert，最后一条记录的id为6195b0c78cca68ab05f13037
+ RecordLog.py[line:22] INFO 2021-11-18 14:52:37-> 已完成3100条数据insert，最后一条记录的id为6195f83565a8e349d7adce65
+ RecordLog.py[line:22] INFO 2021-11-18 14:52:39-> 已完成3200条数据insert，最后一条记录的id为6195f83765a8e349d7adcec9
+ RecordLog.py[line:22] INFO 2021-11-18 14:52:41-> 已完成3300条数据insert，最后一条记录的id为6195f83965a8e349d7adcf2d
+ RecordLog.py[line:22] INFO 2021-11-18 14:52:43-> 已完成3400条数据insert，最后一条记录的id为6195f83b65a8e349d7adcf91
+ RecordLog.py[line:22] INFO 2021-11-18 14:52:44-> 已完成3500条数据insert，最后一条记录的id为6195f83c65a8e349d7adcff5
+ RecordLog.py[line:22] INFO 2021-11-18 14:52:46-> 已完成3600条数据insert，最后一条记录的id为6195f83e65a8e349d7add059
+ RecordLog.py[line:22] INFO 2021-11-18 14:52:48-> 已完成3700条数据insert，最后一条记录的id为6195f84065a8e349d7add0bd
+ RecordLog.py[line:22] INFO 2021-11-18 14:52:50-> 已完成3800条数据insert，最后一条记录的id为6195f84265a8e349d7add121
+ RecordLog.py[line:22] INFO 2021-11-18 14:52:52-> 已完成3900条数据insert，最后一条记录的id为6195f84465a8e349d7add185
+ RecordLog.py[line:22] INFO 2021-11-18 14:52:53-> 已完成4000条数据insert，最后一条记录的id为6195f84565a8e349d7add1e9
+ RecordLog.py[line:22] INFO 2021-11-18 15:12:39-> 已完成4500条数据insert，最后一条记录的id为6195fce73caa404d2fd36ea0
+ RecordLog.py[line:22] INFO 2021-11-18 15:12:47-> 已完成5000条数据insert，最后一条记录的id为6195fcef3caa404d2fd37094
+ RecordLog.py[line:22] INFO 2021-11-18 15:12:57-> 已完成5500条数据insert，最后一条记录的id为6195fcf93caa404d2fd37288
+ RecordLog.py[line:22] INFO 2021-11-18 15:13:07-> 已完成6000条数据insert，最后一条记录的id为6195fd033caa404d2fd3747c
+ RecordLog.py[line:22] INFO 2021-11-18 15:26:21-> 已完成6100条数据insert，最后一条记录的id为6196001d94b2b56124fb34ff
+ RecordLog.py[line:22] INFO 2021-11-18 15:26:22-> 已完成6200条数据insert，最后一条记录的id为6196001e94b2b56124fb3563
+ RecordLog.py[line:22] INFO 2021-11-18 15:26:24-> 已完成6300条数据insert，最后一条记录的id为6196002094b2b56124fb35c7
+ RecordLog.py[line:22] INFO 2021-11-18 15:26:26-> 已完成6400条数据insert，最后一条记录的id为6196002294b2b56124fb362b
+ RecordLog.py[line:22] INFO 2021-11-18 15:26:28-> 已完成6500条数据insert，最后一条记录的id为6196002494b2b56124fb368f
+ RecordLog.py[line:22] INFO 2021-11-18 15:26:30-> 已完成6600条数据insert，最后一条记录的id为6196002694b2b56124fb36f3
+ RecordLog.py[line:22] INFO 2021-11-18 15:26:31-> 已完成6700条数据insert，最后一条记录的id为6196002794b2b56124fb3757
+ RecordLog.py[line:22] INFO 2021-11-18 15:26:33-> 已完成6800条数据insert，最后一条记录的id为6196002994b2b56124fb37bb
+ RecordLog.py[line:22] INFO 2021-11-18 15:26:35-> 已完成6900条数据insert，最后一条记录的id为6196002b94b2b56124fb381f
+ RecordLog.py[line:22] INFO 2021-11-18 15:26:37-> 已完成7000条数据insert，最后一条记录的id为6196002c94b2b56124fb3883
+ RecordLog.py[line:22] INFO 2021-11-18 15:26:38-> 已完成7100条数据insert，最后一条记录的id为6196002e94b2b56124fb38e7
+ RecordLog.py[line:22] INFO 2021-11-18 15:26:40-> 已完成7200条数据insert，最后一条记录的id为6196003094b2b56124fb394b
+ RecordLog.py[line:22] INFO 2021-11-18 15:26:42-> 已完成7300条数据insert，最后一条记录的id为6196003294b2b56124fb39af
+ RecordLog.py[line:22] INFO 2021-11-18 15:26:43-> 已完成7400条数据insert，最后一条记录的id为6196003394b2b56124fb3a13
+ RecordLog.py[line:22] INFO 2021-11-18 15:26:45-> 已完成7500条数据insert，最后一条记录的id为6196003594b2b56124fb3a77
+ RecordLog.py[line:22] INFO 2021-11-18 15:26:47-> 已完成7600条数据insert，最后一条记录的id为6196003794b2b56124fb3adb
+ RecordLog.py[line:22] INFO 2021-11-18 15:26:49-> 已完成7700条数据insert，最后一条记录的id为6196003994b2b56124fb3b3f
+ RecordLog.py[line:22] INFO 2021-11-18 15:26:50-> 已完成7800条数据insert，最后一条记录的id为6196003a94b2b56124fb3ba3
+ RecordLog.py[line:22] INFO 2021-11-18 15:26:52-> 已完成7900条数据insert，最后一条记录的id为6196003c94b2b56124fb3c07
+ RecordLog.py[line:22] INFO 2021-11-18 15:26:54-> 已完成8000条数据insert，最后一条记录的id为6196003e94b2b56124fb3c6b
+ RecordLog.py[line:22] INFO 2021-11-18 15:42:21-> 8100pieces of data are processed successfully(insert), the id of the last record is619603dd525913a896aaa8ab
+ RecordLog.py[line:22] INFO 2021-11-18 15:42:22-> 8200pieces of data are processed successfully(insert), the id of the last record is619603de525913a896aaa90f
+ RecordLog.py[line:22] INFO 2021-11-18 15:42:24-> 8300pieces of data are processed successfully(insert), the id of the last record is619603e0525913a896aaa973
+ RecordLog.py[line:22] INFO 2021-11-18 15:42:26-> 8400pieces of data are processed successfully(insert), the id of the last record is619603e2525913a896aaa9d7
+ RecordLog.py[line:22] INFO 2021-11-18 15:42:27-> 8500pieces of data are processed successfully(insert), the id of the last record is619603e3525913a896aaaa3b
+ RecordLog.py[line:22] INFO 2021-11-18 15:42:29-> 8600pieces of data are processed successfully(insert), the id of the last record is619603e5525913a896aaaa9f
+ RecordLog.py[line:22] INFO 2021-11-18 15:42:30-> 8700pieces of data are processed successfully(insert), the id of the last record is619603e6525913a896aaab03
+ RecordLog.py[line:22] INFO 2021-11-18 15:42:32-> 8800pieces of data are processed successfully(insert), the id of the last record is619603e8525913a896aaab67
+ RecordLog.py[line:22] INFO 2021-11-18 15:42:34-> 8900pieces of data are processed successfully(insert), the id of the last record is619603ea525913a896aaabcb
+ RecordLog.py[line:22] INFO 2021-11-18 15:42:35-> 9000pieces of data are processed successfully(insert), the id of the last record is619603eb525913a896aaac2f
+ RecordLog.py[line:22] INFO 2021-11-18 18:08:09-> 9100pieces of data are processed successfully(insert), the id of the last record is6196260982212ab6e59b7d31
+ RecordLog.py[line:22] INFO 2021-11-18 18:08:10-> 9200pieces of data are processed successfully(insert), the id of the last record is6196260a82212ab6e59b7d95
+ RecordLog.py[line:22] INFO 2021-11-18 18:08:12-> 9300pieces of data are processed successfully(insert), the id of the last record is6196260c82212ab6e59b7df9
+ RecordLog.py[line:22] INFO 2021-11-18 18:08:14-> 9400pieces of data are processed successfully(insert), the id of the last record is6196260e82212ab6e59b7e5d
+ RecordLog.py[line:22] INFO 2021-11-18 18:08:15-> 9500pieces of data are processed successfully(insert), the id of the last record is6196260f82212ab6e59b7ec1
+ RecordLog.py[line:22] INFO 2021-11-18 18:08:17-> 9600pieces of data are processed successfully(insert), the id of the last record is6196261182212ab6e59b7f25
+ RecordLog.py[line:22] INFO 2021-11-18 18:08:19-> 9700pieces of data are processed successfully(insert), the id of the last record is6196261382212ab6e59b7f89
+ RecordLog.py[line:22] INFO 2021-11-18 18:08:20-> 9800pieces of data are processed successfully(insert), the id of the last record is6196261482212ab6e59b7fed
+ RecordLog.py[line:22] INFO 2021-11-18 18:08:22-> 9900pieces of data are processed successfully(insert), the id of the last record is6196261682212ab6e59b8051
+ RecordLog.py[line:22] INFO 2021-11-18 18:08:24-> 10000pieces of data are processed successfully(insert), the id of the last record is6196261882212ab6e59b80b5
+ RecordLog.py[line:41] INFO 2021-11-18 18:24:47-> '_id'
+ RecordLog.py[line:22] INFO 2021-11-18 19:01:58-> 9100pieces of data are processed successfully(insert), the id of the last record is619632a6a3eeca82d6e69164
+ RecordLog.py[line:22] INFO 2021-11-18 19:02:00-> 9200pieces of data are processed successfully(insert), the id of the last record is619632a8a3eeca82d6e691c8
+ RecordLog.py[line:22] INFO 2021-11-18 19:02:02-> 9300pieces of data are processed successfully(insert), the id of the last record is619632aaa3eeca82d6e6922c
+ RecordLog.py[line:22] INFO 2021-11-18 19:02:03-> 9400pieces of data are processed successfully(insert), the id of the last record is619632aba3eeca82d6e69290
+ RecordLog.py[line:22] INFO 2021-11-18 19:02:05-> 9500pieces of data are processed successfully(insert), the id of the last record is619632ada3eeca82d6e692f4
+ RecordLog.py[line:22] INFO 2021-11-18 19:02:07-> 9600pieces of data are processed successfully(insert), the id of the last record is619632afa3eeca82d6e69358
+ RecordLog.py[line:22] INFO 2021-11-18 19:02:09-> 9700pieces of data are processed successfully(insert), the id of the last record is619632b1a3eeca82d6e693bc
+ RecordLog.py[line:22] INFO 2021-11-18 19:02:11-> 9800pieces of data are processed successfully(insert), the id of the last record is619632b3a3eeca82d6e69420
+ RecordLog.py[line:22] INFO 2021-11-18 19:02:13-> 9900pieces of data are processed successfully(insert), the id of the last record is619632b5a3eeca82d6e69484
+ RecordLog.py[line:22] INFO 2021-11-18 19:02:14-> 10000pieces of data are processed successfully(insert), the id of the last record is619632b6a3eeca82d6e694e8
+ RecordLog.py[line:22] INFO 2021-11-18 20:39:01-> 9100pieces of data are processed successfully(insert), the id of the last record is619649654dc2e5823609d39b
+ RecordLog.py[line:22] INFO 2021-11-18 20:39:03-> 9200pieces of data are processed successfully(insert), the id of the last record is619649674dc2e5823609d3ff
+ RecordLog.py[line:22] INFO 2021-11-18 20:39:04-> 9300pieces of data are processed successfully(insert), the id of the last record is619649684dc2e5823609d463
+ RecordLog.py[line:22] INFO 2021-11-18 20:39:06-> 9400pieces of data are processed successfully(insert), the id of the last record is6196496a4dc2e5823609d4c7
+ RecordLog.py[line:22] INFO 2021-11-18 20:39:08-> 9500pieces of data are processed successfully(insert), the id of the last record is6196496c4dc2e5823609d52b
+ RecordLog.py[line:22] INFO 2021-11-18 20:39:10-> 9600pieces of data are processed successfully(insert), the id of the last record is6196496d4dc2e5823609d58f
+ RecordLog.py[line:22] INFO 2021-11-18 20:39:11-> 9700pieces of data are processed successfully(insert), the id of the last record is6196496f4dc2e5823609d5f3
+ RecordLog.py[line:22] INFO 2021-11-18 20:39:13-> 9800pieces of data are processed successfully(insert), the id of the last record is619649714dc2e5823609d657
+ RecordLog.py[line:22] INFO 2021-11-18 20:39:14-> 9900pieces of data are processed successfully(insert), the id of the last record is619649724dc2e5823609d6bb
+ RecordLog.py[line:22] INFO 2021-11-18 20:39:16-> 10000pieces of data are processed successfully(insert), the id of the last record is619649744dc2e5823609d71f
+ RecordLog.py[line:22] INFO 2021-11-18 20:44:45-> 9100pieces of data are processed successfully(insert), the id of the last record is61964abd24e7fedc860f26c2
+ RecordLog.py[line:22] INFO 2021-11-18 20:44:47-> 9200pieces of data are processed successfully(insert), the id of the last record is61964abf24e7fedc860f2726
+ RecordLog.py[line:22] INFO 2021-11-18 20:44:49-> 9300pieces of data are processed successfully(insert), the id of the last record is61964ac124e7fedc860f278a
+ RecordLog.py[line:22] INFO 2021-11-18 20:44:50-> 9400pieces of data are processed successfully(insert), the id of the last record is61964ac224e7fedc860f27ee
+ RecordLog.py[line:22] INFO 2021-11-18 20:44:52-> 9500pieces of data are processed successfully(insert), the id of the last record is61964ac424e7fedc860f2852
+ RecordLog.py[line:22] INFO 2021-11-18 20:44:54-> 9600pieces of data are processed successfully(insert), the id of the last record is61964ac624e7fedc860f28b6
+ RecordLog.py[line:22] INFO 2021-11-18 20:44:56-> 9700pieces of data are processed successfully(insert), the id of the last record is61964ac724e7fedc860f291a
+ RecordLog.py[line:22] INFO 2021-11-18 20:44:57-> 9800pieces of data are processed successfully(insert), the id of the last record is61964ac924e7fedc860f297e
+ RecordLog.py[line:22] INFO 2021-11-18 20:44:59-> 9900pieces of data are processed successfully(insert), the id of the last record is61964acb24e7fedc860f29e2
+ RecordLog.py[line:22] INFO 2021-11-18 20:45:01-> 10000pieces of data are processed successfully(insert), the id of the last record is61964acd24e7fedc860f2a46

@@ -1,0 +1,22 @@
+[{
+  "HOST_ID": "",
+  "HOUSE_ID": "",
+  "HOUSE_COUNTRY": "",
+  "HOUSE_STATE": "",
+  "HOUSE_CITY": "",
+  "HOUST_NEIGHBOURHOOD": "",
+  "HOUSE_MARKET": "",
+  "LISTING_ID": "",
+  "DATE": {
+    "$date": "2021-09-12T00:00:00Z"
+  },
+  "AVAILABLE": false,
+  "PRICE": "",
+  "ADJUSTED_PRICE": 1.111,
+  "MINIMUM_NIGHTS": 0,
+  "MAXIMUM_NIGHTS": 0,
+  "FROM_TABLE": "",
+  "RELEASE_DATE": {
+    "$date": "2021-09-12T00:00:00Z"
+  }
+}]
