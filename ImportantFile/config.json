@@ -1,0 +1,26 @@
+[
+  { "userName": "airbnb_admin",
+    "userCode": "admin123456",
+    "dbName": "Airbnb",
+    "queryDataSet": "raw_house",
+    "outDataSet": "feature_num_house",
+    "queryCondition": { "_id" :{ "$gt" : "603f91052279260db766f8a9"} },
+    "RecordNum": 100,
+    "queryUnit": 10,
+    "skip": 2000
+  },
+  {
+    "userName": "airbnb_admin",
+    "userCode": "admin123456",
+    "dbName": "Airbnb",
+    "mainDataSet": "raw_house",
+    "jionDataSet": "feature_num_house",
+    "outDataSet": "feature_num_house",
+    "mianQueryCondition1": { "_id" :{ "$gte" : "603f91052279260db766f8a9"} },
+    "mianQueryCondition2": { "_id" :{ "$gt" : "603f91052279260db766f8a9"} },
+    "jionQueryCondition": { "listing_id" :{"$in": []}},
+    "RecordNum": 100,
+    "queryUnit": 10,
+    "skip": 2000
+  }
+]
